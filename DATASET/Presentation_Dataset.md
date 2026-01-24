@@ -1,4 +1,4 @@
-Ceci est un ficheier dans le dossier dataset pour présenter les différents jeux de données.
+Ceci est un fichier dans le dossier dataset pour présenter les différents jeux de données.
 
 DATA SOURCES : 
 
